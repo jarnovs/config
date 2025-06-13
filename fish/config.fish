@@ -12,5 +12,7 @@ if test -f ~/.cache/ags/user/generated/terminal/sequences.txt
 end
 
 alias pamcan=pacman
-alias v=helix
+alias hx=helix
 alias l='ls'
+alias la='ls -la'
+alias vim=nvim
